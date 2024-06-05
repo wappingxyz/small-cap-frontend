@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>FormFacade Form</h1>
+        <h1>Small Cap Token Analysis</h1>
         <FormFacadeForm />
       </header>
     </div>
